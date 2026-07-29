@@ -1,0 +1,9 @@
+import control_observation_systems_abstract_spaces_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace control_observation_systems_abstract_spaces_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end control_observation_systems_abstract_spaces_foundation_canonical_lane_mathlib
+end HautevilleHouse

@@ -1,0 +1,9 @@
+import ControlObservationSystemsAbstractSpacesFoundationCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace ControlObservationSystemsAbstractSpacesFoundationCanonicalLaneLean
+
+-- Root module importing all core components
+
+end ControlObservationSystemsAbstractSpacesFoundationCanonicalLaneLean
+end HautevilleHouse
